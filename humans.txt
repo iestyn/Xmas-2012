@@ -1,0 +1,18 @@
+# humanstxt.org/
+
+  SEASONS GREETINGS
+  HAPPY HOLIDAYS
+  MERRY CHRISTMAS
+  HAPPY NEW YEAR
+
+PLEASE stay safe this year and the next!
+
+# TEAM
+
+Iestyn Polley (@ipolley)
+
+# TECHNOLOGY COLOPHON
+
+HTML5 Boilerplate
+jQuery, Modernizr
+etc
